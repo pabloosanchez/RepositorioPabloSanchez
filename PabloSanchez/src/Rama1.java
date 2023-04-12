@@ -6,5 +6,10 @@ public class Rama1 {
 		System.out.println("Holi soy Pablo :)");
 		
 		System.out.println("Holi soy Pablo 2º mensaje :)");
+		
+		System.out.println("Holi soy Pablo 3º mensaje :)");
+		
+		System.out.println("Holi soy Pablo 4º mensaje :)");		
+		
 	}
 }
